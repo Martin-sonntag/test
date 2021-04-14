@@ -10,5 +10,6 @@ public class DBClient
 	public String ReadConnectionString() 
 	{
 		return "test";
+		//Testkommentar
 	}
 }
